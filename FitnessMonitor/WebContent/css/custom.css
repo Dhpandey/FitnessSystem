@@ -1,0 +1,81 @@
+body {
+	background-color: #d0e4fe;
+	font-family: "Lucida Sans Typewriter", "Lucida Console", monaco,
+		"Bitstream Vera Sans Mono", monospace;
+	vertical-align: middle;
+	margin: -100px 0 0 40px;
+}
+
+.activity, .profile, .history {
+	font-size: 130%;
+	text-decoration: none;
+}
+
+.outer {
+	display: table;
+	position: absolute;
+	height: 100%;
+	width: 94%;
+}
+
+.spacer {
+    height: 40px;
+}
+
+.middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.inner {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+
+.new-activity {
+	margin-bottom: 20px;
+}
+
+.level {
+	margin-bottom: 20px;
+}
+
+.measurement-type {
+	margin-botton: 20px;
+}
+
+.sub-measurement-type {
+	margin: 13px 4px 10px 21px;
+}
+
+.submitButton {
+	height: 26px;
+	margin-top: 16px;
+	width: 62px;
+}
+
+.profile-separator {
+	margin-bottom: 10px;
+}
+
+.profile-dob {
+	margin-left: 77px;
+}
+
+.profile-gender {
+	margin-left: 47px;
+}
+
+.profile-height {
+	margin-left: 47px;
+}
+
+.name-separator {
+	font-size: 10pt;
+	margin-right: 10px;
+}
+
+.activity-weight, .activity-repetition {
+	display: none;
+}
